@@ -1,0 +1,167 @@
+
+/* ****************FOR THIS SITE*********************
+
+#66bfbf
+#eaf6f6
+#fcfefe
+#f76b8a
+
+*/
+
+body    {
+    font-family: 'Raleway', 'Montserrat', sans-serif;
+    margin: 0;
+    text-align: center;
+}
+
+h1  {
+    color: #66BFBF;
+    margin-bottom: 0px;
+}
+
+h2  {
+    color: #66BFBF;
+    font-family: 'Raleway', 'Montserrat', sans-serif;
+}
+
+h3  {
+    color: #11999e;
+}
+
+hr  {
+    color: gray;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 60px;
+    margin: 100px auto;
+}
+
+p      {
+    color: #40514E;
+    margin-bottom: 50px;
+}
+
+.mail-link  {
+    color: #eaf6f6;
+    text-decoration: none;
+}
+
+.bottom-cloud      {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.bottom-container   {
+    background-color: #66BFBF;
+    padding-top: 30px;
+}
+
+.coding {
+    text-align: justify;
+}
+
+.coding-img {
+    float: left;
+    padding-top: 40px;
+    margin-right: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.conimg {
+    width: 160px;
+    height: 160px;
+    margin-bottom: 10px;
+}
+
+.contact-btn    {
+    width: 160px;
+    height: 32px;
+    background-color: #11999e;
+    margin: 0 auto 0 auto;
+}
+
+.contact-me     {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.cr {
+    color: #eaf6f6;
+    font-size: small;
+    padding-top: 20px;
+}
+
+.footer-link    {
+    color: #11999e;
+    text-decoration: none;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.icons  {
+    color: #11999e;
+    font-size: small;
+}
+
+.middle-container      {
+    line-height: 2;
+    padding-bottom: 10px;
+}
+
+.name  {
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    font-style: italic;
+}
+
+.pro    {
+    text-decoration: underline;
+}
+
+.profile {
+    margin: 120px auto 50px auto;
+    width: 45%;
+}
+
+.python     {
+    text-align: justify;
+}
+
+.python-img {
+    float: right;
+    width: 100px;
+    height: 100px;
+    padding-top: 30px;
+    padding-left: 40px;
+}
+
+.skills {
+    margin: 50px auto auto;
+    padding-bottom: 1px;
+    width: 45%;
+}
+
+.skill-row      {
+    margin: 50px auto 100px auto;
+}
+
+.top-cloud      {
+    position: absolute;
+    right: 300px;
+    top: 100px;
+}
+
+.top-container  {
+    background-color: #EAF6F6;
+    margin-bottom: 55px;
+    padding-top: 100px;
+    position: relative;
+}
+
+.WDAD {
+    text-align: right;
+}
+
