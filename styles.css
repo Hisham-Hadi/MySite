@@ -111,6 +111,11 @@ p      {
     padding-bottom: 10px;
 }
 
+.mountain   {
+    width: auto;
+    height: auto;
+}
+
 .name  {
     font-family: 'Sacramento', cursive;
     font-size: 5.625rem;
